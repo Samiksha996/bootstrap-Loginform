@@ -1,0 +1,91 @@
+<button>User Agent stylesheet</-button> <!--user agent stylesheet button-->
+    <hr />
+    <!--bootstrap buttons--> 
+    <button class="btn btn-success">Bootstrap btn</button> 
+    <button class="btn btn-danger">Bootstrap btn</button>
+    <button class="btn btn-primary">Bootstrap btn</button>
+    <button class="btn btn-warning">Bootstrap btn</button>
+    <button class="btn btn-info">Bootstrap btn</button>
+    <button class="btn btn-secondary">Bootstrap btn</button>
+    <button class="btn btn-default">Bootstrap btn</button>
+    <button class="btn btn-dark">Bootstrap btn</button>
+    <!--bootstrap buttons-->
+    <hr />
+
+    <!--bootstrap outline buttons-->
+    <button class="btn btn-outline-danger">Danger</button>
+    <button class="btn btn-outline-success">Success</button>
+    <button class="btn btn-outline-warning">Warning</button>
+    <button class="btn btn-outline-primary">Primary</button>
+    <button class="btn btn-outline-dark">Dark</button>
+    <button class="btn btn-outline-secondary">Secondary</button>
+    <button class="btn btn-outline-info">Info</button>
+    <!--bootstrap outline buttons-->
+   
+    <!--small big button-->
+    <button type="button" class="btn btn-primary btn-sm">Small button</button>
+    <button type="button" class="btn btn-primary btn-lg">Large button</button>
+
+    <hr />
+
+     <!--full width button-->
+     <button type="button" class="btn btn-primary btn-block">100% width</button>
+     <button type="button" class="btn btn-toolbar">toolbar</button>
+
+     <hr />
+
+     <!--need to override bootstrap css-->
+     <button class="btn btn-success">Custom button</button> 
+
+     <button class="btn btn-primary">even custom css is working</button>
+
+     <!--btn grp-->
+     <div style="margin: 10px;" class="btn-group btn-block"> 
+         <button class="btn btn-success">Prev</button>
+         <button class="btn-light btn">Continue</button>
+         <button class="btn btn-warning">Next</button>
+     </div>
+
+     <hr />
+     <!--disabled-->
+     <button type="button" class="btn btn-lg btn-primary" disabled>Primary button</button>
+
+     <hr />
+
+     <!--bootstrap layouts-->
+     <!--bootstrap grids= always work row-->
+
+     <section class="row">
+
+         <!--<div class="col-3 bg-danger">div1</div>
+         <div class="col-3 bg-success">div2</div>
+         <div class="col-3 bg-primary">div3</div>
+         <div class="col-3 bg-info">div4</div>-->
+        </section>
+         <!--t-shirt sizes--xs-.col <576px,
+            xl .col-xl >1200px,
+            lg .col-lg >992,
+            sm .col-sm >576px,
+            md .col-md >768px-->
+         <!--mobile--> <class=col-xs></class>
+         <!--tab--> <class="col-sm"></class>
+         <!--laptop/desktop--> <col-md></col-md>
+         <col-lg></col-lg>
+  
+         <!--container= -->
+         <section-- class="container"> 
+
+            <section class="row">
+                <div class="col-md-3 col-sm-6 col-lg-3">
+                    <h1>Fullstack</h1>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                    <button class="btn btn-warning btn-block">Join Fullstack</button>
+                </div>
+   
+                <div class="col-md-3 col-sm-6 col-lg-3 bg-success">div1</div>
+                <div class="col-md-3 col-sm-6 col-lg-3 bg-danger">div1</div>
+                <div class="col-md-3 col-sm-6 col-lg-3 bg-primary">div1</div>
+            
+
+         </section>
+        </section-->

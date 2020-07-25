@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: 'Poppins', sans-serif; 
+}
+/*
+.btn-success {
+    background-color: palevioletred;
+    color: plum;
+    border: 1px solid crimson;
+}
+.btn-success:hover {
+    background-color: chartreuse;
+    border: 1px solid cadetblue;
+}
+
+section {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+div {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold
+}
+
+div {
+    background-color: cornsilk;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}*/
+section article {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+section article form {
+    background-color: #fff;
+    padding: 35px;
+    width: 425px;
+    height: 245px;
+}
+
+label {
+    display: block;
+}
+button {
+    background-color: palevioletred;
+    color: #fff;
+    padding: 13px;
+    width: 100%;
+    display: flex;
+    border: none;
+
+}
+.form-check a {
+       float: right;
+       
+}
+
+input div {
+    padding: 15px;
+    margin-left: -14px;
+}
+section article div .btn-danger div {
+    padding: 10px;
+    margin-left: -10px;
+}
+.btn {
+    width: 100%;
+    padding: 10px;
+    margin-left: -8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

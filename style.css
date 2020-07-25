@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: 'Poppins', sans-serif; 
+}
+
+/* custom css */
+
+/*section {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+section form {
+    padding: 20px;
+}
+
+.login {
+    font-weight: bold;
+    
+}
+h2.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}*/
